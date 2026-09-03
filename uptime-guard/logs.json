@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "6a9319019645029faab0a644",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 29,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:38:09.406Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9318d829b8ba9cecdc6b7f",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 11,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:37:28.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9318ba29b8ba9cecdc6b7e",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 30,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:36:58.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a93189c29b8ba9cecdc6b7d",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 59,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:36:28.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931873a081c510b7b7ba16",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 28,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:35:47.370Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931855a081c510b7b7ba15",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 56,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:35:17.428Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931837a081c510b7b7ba14",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 30,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:34:47.397Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931819a081c510b7b7ba13",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 71,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:34:17.509Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9317fba081c510b7b7ba12",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 40,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:33:47.375Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9317dda081c510b7b7ba11",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 33,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:33:17.387Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9317c2a081c510b7b7ba10",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 3354,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:32:50.709Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9317a1a081c510b7b7ba0f",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": null,
+    "responseTimeMs": 17,
+    "isUp": false,
+    "checkedAt": "2026-08-29T17:32:17.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931783a081c510b7b7ba0d",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": null,
+    "responseTimeMs": 10,
+    "isUp": false,
+    "checkedAt": "2026-08-29T17:31:47.294Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931765a081c510b7b7ba0c",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 25,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:31:17.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a931747a081c510b7b7ba0b",
+    "monitorId": "6a931733a081c510b7b7ba0a",
+    "statusCode": 200,
+    "responseTimeMs": 85,
+    "isUp": true,
+    "checkedAt": "2026-08-29T17:30:47.482Z",
+    "__v": 0
+  }
+]
