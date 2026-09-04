@@ -3,7 +3,7 @@ import axios from 'axios';
 import { io } from 'socket.io-client';
 
 
-const API_BASE = `${process.env.REACT_BACKEND_URL}/api/monitors`;
+const API_BASE = `${process.env.REACT_APP_BACKEND_URL}/api/monitors`;
 
 export default function MonitorLogsModal({ monitor, onClose }) {
   const [logs, setLogs] = useState([]);
@@ -27,7 +27,7 @@ export default function MonitorLogsModal({ monitor, onClose }) {
 
         fetchLogs();
 
-        const socket = io(`${process.env.REACT_BACKEND_URL}`);
+        const socket = io(`${process.env.REACT_APP_BACKEND_URL}`);
 
         socket.on('ping_log_added', (newLog) => {
             if (String(newLog.monitorId) === String(monitor._id)) {
