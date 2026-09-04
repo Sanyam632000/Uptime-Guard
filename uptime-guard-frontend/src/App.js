@@ -6,7 +6,7 @@ import MonitorLogsModal from './components/MonitorLogsModal';
 import axios from 'axios';
 import { io } from 'socket.io-client';
 
-const API_BASE = 'http://localhost:8000/api/monitors';
+const API_BASE = `${process.env.REACT_BACKEND_URL}/api/monitors`;
 
 export default function App() {
   const [monitors, setMonitors] = useState([]);
@@ -31,7 +31,7 @@ export default function App() {
     fetchMonitors();
 
     // 2. Connect to WebSockets
-    const socket = io("http://localhost:8000");
+    const socket = io(`${process.env.REACT_BACKEND_URL}`);
 
     // 3. Listen for live status updates from background checks
     socket.on('monitor_ping', (data) => {
