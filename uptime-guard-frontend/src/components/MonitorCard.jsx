@@ -4,8 +4,8 @@ import axios from 'axios';
 import { io } from 'socket.io-client';
 
 
-const API_BASE = 'http://localhost:8000/api/monitors';
-const SOCKET_URL = 'http://localhost:8000';
+const API_BASE = `${process.env.REACT_BACKEND_URL}/api/monitors`;
+const SOCKET_URL = `${process.env.REACT_BACKEND_URL}`;
 
 export default function MonitorCard({ monitor, onDelete, onViewLogs }) {
  
